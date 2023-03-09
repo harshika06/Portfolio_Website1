@@ -96,7 +96,7 @@
 .project {
     display: flex;
     align-items: center;
-    gap: 100px;
+    gap: 20px;
     height: 100vh;
     overflow: hidden;
   }
@@ -225,3 +225,14 @@
   .githubSm{
     display: none;
   }
+
+   .profile
+   {
+    height: 30px;
+    width: 100px;
+    text-decoration: none;
+    color: azure;
+    background-color: #111;
+  
+    
+   }
